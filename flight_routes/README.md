@@ -1,0 +1,12 @@
+# Analysis of Most Flown Airports
+
+Contents:
+- [airports_routes.ipynb](airports-routes.ipynb)
+- [airports.csv](airports.csv)
+- [routes.csv](routes.csv)
+
+This notebook analyzes airport and route data to determine and visualize the top twenty most flown airports in the US. I can't remember where the data originally came from, but the files have been included here.
+
+The intended audience for this demo was beginning data science students who were not assumed to have much knowledge of programming in general or data science tools in particular. So it begins with a brief discussion of Jupyter notebooks - what they are and some features of markdown with examples. There is also a brief introduction to virtual environments and how and why to use them. 
+
+The rest of the notebooks uses Pandas to do some slicing and dicing (cleanup, transformation, aggregation), combining the two datasets and using a merge operation to calculate the most traveled airports from the route data. Then it uses Plotly to build a map visualization of the top twenty busiest airports and their locations.
