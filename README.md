@@ -1,6 +1,6 @@
 # Data Science Project Portfolio
 
-This repo (currently Work In Progress [WIP]) will contain various machine-learning related projects.
+This repo (currently Work In Progress [WIP]) will contain various data science and machine-learning related projects.
 
 ## Contents
 
